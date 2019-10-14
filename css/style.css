@@ -1,0 +1,29 @@
+.stars {
+	color: #DAC049;
+}
+
+
+#padding {
+	padding-top: 30px;
+} 
+
+h5 {
+	text-align: center;
+}
+
+button {
+	width: 100%;
+}
+
+.coeur i {
+	position: relative;
+	top: -180px;
+	left: 70px;
+	color: red;
+	font-size: 30px;
+}
+
+a :hover {
+	transition-duration: 0.3s;
+	border-radius: 10px;
+}
